@@ -1,0 +1,5 @@
+{
+  "name": "NexLearn - Smart Study OS",
+  "description": "A multi-agent AI study assistant that generates personalized curriculums, flashcards, and quizzes using Google Gemini.",
+  "requestFramePermissions": []
+}
